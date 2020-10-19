@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/gh/alexn1066/ci_course/branch/main/graph/badge.svg?token=UQQ9SCKMM8)](undefined)
 ![Run unit tests](https://github.com/alexn1066/ci_course/workflows/Run%20unit%20tests/badge.svg)
 
 
