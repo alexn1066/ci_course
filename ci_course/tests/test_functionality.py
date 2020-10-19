@@ -17,5 +17,6 @@ class TestFunctionality(unittest.TestCase):
         print(type(ci_course.minimum("Hi again")))
         self.assertEqual(ci_course.minimum("Hi again"), None)
 
+
 if __name__ == '__main__':
     unittest.main()
